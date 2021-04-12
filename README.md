@@ -1,9 +1,4 @@
 # DockerLEMP
-> The extensible content management platform for streamers and content creators.
-
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-![Version v0.00](https://img.shields.io/badge/version-v0.00-orange.svg?style=flat)
 
 ## Description
 A simple to run Docker container for LEMP stacks.
